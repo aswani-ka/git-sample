@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
 hello, i'm a sample text file
-=======
+
 Im a sample editor!!! 
 
->>>>>>> feature
+
